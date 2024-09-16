@@ -1,7 +1,6 @@
 repositories
 {
-    mavenCentral()
-   // maven { url 'https://jitpack.io' }
+    maven { url 'file://${projectDir}/play-2.1.1/repository/local' }
 }
 dependencies {
     implementation 'com.github.scottyab:rootbeer:0.1.0'
