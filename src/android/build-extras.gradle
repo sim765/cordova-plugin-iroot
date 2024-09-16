@@ -1,7 +1,7 @@
 repositories
 {
-    maven { url 'https://repo.maven.apache.org/maven2' }
+    mavenCentral()
 }
 dependencies {
-    implementation 'com.github.scottyab:rootbeer:0.1.0'
+    implementation 'com.scottyab:rootbeer-lib:0.1.0'
 }
