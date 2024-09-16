@@ -1,6 +1,6 @@
 repositories
 {
-    maven { 'https://mvnrepository.com/artifact/com.scottyab/rootbeer-lib/0.1.0' }
+    maven { 'https://repo.maven.apache.org/maven2' }
 }
 dependencies {
     implementation 'com.github.scottyab:rootbeer:0.1.0'
