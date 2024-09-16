@@ -1,6 +1,6 @@
 repositories
 {
-    maven { url 'file://${projectDir}/play-2.1.1/repository/local' }
+    mavenCentral()
 }
 dependencies {
     implementation 'com.github.scottyab:rootbeer:0.1.0'
